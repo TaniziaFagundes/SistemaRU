@@ -1,4 +1,4 @@
-<p align="center"><img src="https://static.wixstatic.com/media/65a1ec_a3b272dde12346c288688a72cddb6082~mv2_d_1451_1500_s_2.png/v1/fill/w_1451,h_1500,al_c,q_90/file.jpg" width="150"><img src="https://miro.medium.com/max/1024/1*IQ9laxKlEm6CodFOZIbgLQ.png" width="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" width="200"><img src="https://front.id/sites/default/files/2017-05/materialize.png" width="150"></p>
+<p align="center"><img src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png" width="150"><img src="https://miro.medium.com/max/1024/1*IQ9laxKlEm6CodFOZIbgLQ.png" width="200"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" width="200"><img src="https://front.id/sites/default/files/2017-05/materialize.png" width="100"></p>
 <p align="center"><img src="https://www.pngitem.com/pimgs/m/78-787363_transparent-javascript-icon-png-html-css-js-png.png" width="250"></p>
 
 <p align="center">
