@@ -46,7 +46,7 @@
             </div>
 
             <button class="btn waves-effect waves-light" type="submit">Salvar Alterações
-                <i class="material-icons right">send</i>
+                <i class="material-icons right"></i>
             </button>
             {{$mensagem}}
 

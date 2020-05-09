@@ -23,8 +23,8 @@
                 </div>
             </div>
 
-            <button class="btn waves-effect waves-light" type="submit">Logar
-                <i class="material-icons right">send</i>
+            <button class="btn waves-effect waves-light" type="submit">Login
+                <i class="material-icons right"></i>
             </button>
         </div>
     </form>

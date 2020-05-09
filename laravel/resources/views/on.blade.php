@@ -107,9 +107,8 @@
             <div class="row">
 
                 <div class="col l6 s12">
-                    <h5 class="white-text">Footer Content</h5>
-                    <p class="grey-text text-lighten-4"> texto aqui
-                        content.</p>
+                <h5 class="white-text">PROJETO</h5>
+                <p class="grey-text text-lighten-4">Projeto da materia de Banco de Dados -- Avaliar a Comida do Restaurante.</p>
                 </div>
 
                 <div class="col l3 s12">
@@ -124,7 +123,7 @@
                 </div>
 
 
-                <div class="col l1 s2">
+                <div class="col l1 s12">
                     <ul class="carousel carousel-slider" style="width: 150px;">
                         <a class="carousel-item" href="#one!"><img src="https://www.fastcommerce.com.br/lojas/00000001/images/GitHub_Octocat.png?cccfc=1"></a>
                     </ul>
